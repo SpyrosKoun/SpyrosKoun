@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **SpyrosKoun/SpyrosKoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is ***Spyros Kounoupidis*** and I live in Thessaloniki, Greece. I am currently an **undergraduate** in the **Computer Science Department** of **Aristotle University of Thessaloniki (AUTh)**.
+
+I'm currently trying to find out what I like the most from the Computer Science subfields.
+
+At the moment, my favourite ones are Software Engineering and Algorithm Design
+
+During my free time, I like watching Netflix and trying to get better on what I like. That is **Computer Science**
